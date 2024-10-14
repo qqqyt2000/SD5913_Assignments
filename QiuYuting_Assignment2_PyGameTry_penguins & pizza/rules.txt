@@ -1,0 +1,39 @@
+﻿★游戏规则★
+
+☆关于操控：
+↑←↓→ 操控右下角小企鹅（Penguin ONE）其计分板位于右上角
+WASD 操控左下角小企鹅（Penguin TWO）其计分板位于左上角
+
+
+鼠标左键单击Play 按钮 游戏开始
+
+鼠标左键单击Records 按钮 可以查看以往的游戏记录
+
+游戏达到指定目标结束后，将回到初始界面，此时鼠标左键单击Play 按钮，可以开始新一轮游戏~
+
+☆关于游戏规则：
+游戏开始后，两位玩家操控各自的小企鹅去争夺屏幕上随机出现的一个pizza，抢到（小企鹅的中心点位于pizza图像内部）则该玩家得一分；
+pizza每两秒变换一次位置；
+但是若两秒内有玩家抢到pizza 则立即出现下一个pizza；
+当累计有十个pizza被抢到时（即两位玩家得分相加为10），游戏结束，此时得分多的玩家胜利，分数相同则平局。
+
+
+
+★Game Rules★
+
+☆Controls:
+Use ↑←↓→ to control the bottom right penguin (Penguin ONE). Its scoreboard is located at the top right.
+Use WASD to control the bottom left penguin (Penguin TWO). Its scoreboard is located at the top left.
+
+Click the Play button with the left mouse button to start the game.
+
+Click the Records button with the left mouse button to view past game records.
+
+After reaching the specified goal, the game will return to the initial screen. Click the Play button with the left mouse button to start a new round.
+
+☆Game Rules:
+Once the game starts, both players control their penguins to compete for a pizza that appears randomly on the screen. If a penguin's center point is within the pizza image, that player scores a point.
+The pizza changes position every two seconds.
+If a player grabs the pizza within two seconds, the next pizza appears immediately.
+When a total of ten pizzas have been grabbed (i.e., the combined score of both players is 10), the game ends. The player with the higher score wins. If the scores are tied, the game is a draw.
+
